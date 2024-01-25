@@ -2,7 +2,7 @@
 The PyCitySchool provides an analysis of a school district.
 You are given 2 separate files with relevant data to perform the analysis.
 1.	The school data includes the school’s name, the district, the number of students, and the budget.
-2.	The student data includes the student’s names , gender, the name of their school, their grade level. It also provides ach students reading and math scores. Note: It is assumed that some students that have the same name, but different ID
+2.	The student data includes the student’s names , gender, the name of their school, their grade level. It also provides ach students reading and math scores. Note: It is assumed that some students that have the same name, but different ID.
 The combine the two files and perform the following calculations:
 •	Count  the  number of unique schools
 •	Count the number of students
